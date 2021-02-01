@@ -1,0 +1,690 @@
+\ifglsentryexists{1}{}%
+{%
+\gls@defglossaryentry{1}%
+{%
+name={Agentes de usuário:},%
+sort={Agentes de usuário:},%
+type={main},%
+first={Agentes de usuário:},%
+firstplural={Agentes de usuário:s},%
+text={Agentes de usuário:},%
+plural={Agentes de usuário:s},%
+description={qualquer \textit {software} que recupera, processa e facilita a interação do usuário final com o conteúdo Web. Como exemplo desses agentes, podem ser citados navegadores, reprodutores multimídia e tecnologias assistivas},%
+descriptionplural={qualquer \textit {software} que recupera, processa e facilita a interação do usuário final com o conteúdo Web. Como exemplo desses agentes, podem ser citados navegadores, reprodutores multimídia e tecnologias assistivas},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{2}{}%
+{%
+\gls@defglossaryentry{2}%
+{%
+name={ATAG:},%
+sort={ATAG:},%
+type={main},%
+first={ATAG:},%
+firstplural={ATAG:s},%
+text={ATAG:},%
+plural={ATAG:s},%
+description={\textit {Authoring Tool Accessibility Guidelines} ou Diretrizes de acessibilidade para ferramentas de autoria. É um conjunto de diretrizes para desenvolvedores de qualquer ferramenta de criação para Web, como: simples editores HTML, ferramentas para exportar conteúdo para Web, ferramentas multimídia e sistemas de gerenciamento de conteúdo},%
+descriptionplural={\textit {Authoring Tool Accessibility Guidelines} ou Diretrizes de acessibilidade para ferramentas de autoria. É um conjunto de diretrizes para desenvolvedores de qualquer ferramenta de criação para Web, como: simples editores HTML, ferramentas para exportar conteúdo para Web, ferramentas multimídia e sistemas de gerenciamento de conteúdo},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{3}{}%
+{%
+\gls@defglossaryentry{3}%
+{%
+name={DOM:},%
+sort={DOM:},%
+type={main},%
+first={DOM:},%
+firstplural={DOM:s},%
+text={DOM:},%
+plural={DOM:s},%
+description={\textit {Document Object Model} ou Modelo de Objetos de Documentos. É uma especificação do W3C para organizar objetos de um documento em que se pode, dinamicamente, alterar e editar sua estrutura, conteúdo e estilo},%
+descriptionplural={\textit {Document Object Model} ou Modelo de Objetos de Documentos. É uma especificação do W3C para organizar objetos de um documento em que se pode, dinamicamente, alterar e editar sua estrutura, conteúdo e estilo},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{4}{}%
+{%
+\gls@defglossaryentry{4}%
+{%
+name={Javascript:},%
+sort={Javascript:},%
+type={main},%
+first={Javascript:},%
+firstplural={Javascript:s},%
+text={Javascript:},%
+plural={Javascript:s},%
+description={é uma linguagem de \textit {script} para desenvolvimento de certos tratamentos que ocorrem lado do cliente, geralmente o navegador Web. Ela é utilizada geralmente quando é inconveniente ou impossível para o servidor para fazer esse tratamento},%
+descriptionplural={é uma linguagem de \textit {script} para desenvolvimento de certos tratamentos que ocorrem lado do cliente, geralmente o navegador Web. Ela é utilizada geralmente quando é inconveniente ou impossível para o servidor para fazer esse tratamento},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{5}{}%
+{%
+\gls@defglossaryentry{5}%
+{%
+name={Stakeholder:},%
+sort={Stakeholder:},%
+type={main},%
+first={Stakeholder:},%
+firstplural={Stakeholder:s},%
+text={Stakeholder:},%
+plural={Stakeholder:s},%
+description={qualquer pessoa ou grupo, que legitima as ações de uma organização. É formado pelos funcionários da empresa, gestores, gerentes, proprietários, fornecedores, clientes, o Estado, credores, sindicatos e diversas outras pessoas ou empresas que estejam relacionadas com uma determinada ação ou projeto.},%
+descriptionplural={qualquer pessoa ou grupo, que legitima as ações de uma organização. É formado pelos funcionários da empresa, gestores, gerentes, proprietários, fornecedores, clientes, o Estado, credores, sindicatos e diversas outras pessoas ou empresas que estejam relacionadas com uma determinada ação ou projeto.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{6}{}%
+{%
+\gls@defglossaryentry{6}%
+{%
+name={Tag:},%
+sort={Tag:},%
+type={main},%
+first={Tag:},%
+firstplural={Tag:s},%
+text={Tag:},%
+plural={Tag:s},%
+description={ou etiqueta, é uma palavra-chave ou termo associado com uma informação que a descreve. Em linguagens de marcação, como o HTML, consistem em breves instruções, tendo uma marca de início e outra de fim para que o navegador possa mostrar a renderização da página},%
+descriptionplural={ou etiqueta, é uma palavra-chave ou termo associado com uma informação que a descreve. Em linguagens de marcação, como o HTML, consistem em breves instruções, tendo uma marca de início e outra de fim para que o navegador possa mostrar a renderização da página},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{7}{}%
+{%
+\gls@defglossaryentry{7}%
+{%
+name={Tecnologia assistiva:},%
+sort={Tecnologia assistiva:},%
+type={main},%
+first={Tecnologia assistiva:},%
+firstplural={Tecnologia assistiva:s},%
+text={Tecnologia assistiva:},%
+plural={Tecnologia assistiva:s},%
+description={Conjunto de técnicas, aparelhos, instrumentos, produtos e procedimentos que visam auxiliar a mobilidade, percepção e utilização do meio ambiente e dos elementos por pessoas com deficiência},%
+descriptionplural={Conjunto de técnicas, aparelhos, instrumentos, produtos e procedimentos que visam auxiliar a mobilidade, percepção e utilização do meio ambiente e dos elementos por pessoas com deficiência},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{8}{}%
+{%
+\gls@defglossaryentry{8}%
+{%
+name={UAAG:},%
+sort={UAAG:},%
+type={main},%
+first={UAAG:},%
+firstplural={UAAG:s},%
+text={UAAG:},%
+plural={UAAG:s},%
+description={\textit {User Agent Accessibility Guidelines} ou Diretrizes de acessibilidade para agentes de usuário. Conjuntos de diretrizes para desenvolvedores de agentes de usuário (por exemplo: navegadores e reprodutores de mídia) com a finalidade de fazer com que tais agentes permitam sua utilização adequada por pessoas com algum tipo de deficiência},%
+descriptionplural={\textit {User Agent Accessibility Guidelines} ou Diretrizes de acessibilidade para agentes de usuário. Conjuntos de diretrizes para desenvolvedores de agentes de usuário (por exemplo: navegadores e reprodutores de mídia) com a finalidade de fazer com que tais agentes permitam sua utilização adequada por pessoas com algum tipo de deficiência},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{9}{}%
+{%
+\gls@defglossaryentry{9}%
+{%
+name={W3C:},%
+sort={W3C:},%
+type={main},%
+first={W3C:},%
+firstplural={W3C:s},%
+text={W3C:},%
+plural={W3C:s},%
+description={\textit {World Wide Web Consortium}. É um consórcio internacional formado por empresas, órgãos governamentais e organizações independentes que visa desenvolver padrões para a criação e a interpretação de conteúdos da Web},%
+descriptionplural={\textit {World Wide Web Consortium}. É um consórcio internacional formado por empresas, órgãos governamentais e organizações independentes que visa desenvolver padrões para a criação e a interpretação de conteúdos da Web},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{10}{}%
+{%
+\gls@defglossaryentry{10}%
+{%
+name={WAI:},%
+sort={WAI:},%
+type={main},%
+first={WAI:},%
+firstplural={WAI:s},%
+text={WAI:},%
+plural={WAI:s},%
+description={\textit {Web Accessibility Initiative} ou Iniciativa de Acessibilidade na Web. É a iniciativa do W3C no que tange a desenvolver estratégias, diretrizes e outros recursos, a fim de que as informações presentes na Web sejam acessíveis para pessoas com ou sem deficiência},%
+descriptionplural={\textit {Web Accessibility Initiative} ou Iniciativa de Acessibilidade na Web. É a iniciativa do W3C no que tange a desenvolver estratégias, diretrizes e outros recursos, a fim de que as informações presentes na Web sejam acessíveis para pessoas com ou sem deficiência},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{11}{}%
+{%
+\gls@defglossaryentry{11}%
+{%
+name={WCAG:},%
+sort={WCAG:},%
+type={main},%
+first={WCAG:},%
+firstplural={WCAG:s},%
+text={WCAG:},%
+plural={WCAG:s},%
+description={\textit {Web Content Accessibility Guidelines} ou Diretrizes de Acessibilidade para Conteúdo Web. É um conjunto de diretrizes criado pelo W3C para auxílio na elaboração de conteúdo acessível, que atualmente está em sua versão 2.0 desde 2008.},%
+descriptionplural={\textit {Web Content Accessibility Guidelines} ou Diretrizes de Acessibilidade para Conteúdo Web. É um conjunto de diretrizes criado pelo W3C para auxílio na elaboração de conteúdo acessível, que atualmente está em sua versão 2.0 desde 2008.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{12}{}%
+{%
+\gls@defglossaryentry{12}%
+{%
+name={WYSIWYG:},%
+sort={WYSIWYG:},%
+type={main},%
+first={WYSIWYG:},%
+firstplural={WYSIWYG:s},%
+text={WYSIWYG:},%
+plural={WYSIWYG:s},%
+description={``What You See Is What You Get'' ou ``O que você vê é o que você obtém''. Recurso tem por objetivo permitir que um documento, enquanto manipulado na tela, tenha a mesma aparência de sua utilização, usualmente sendo considerada final. Isso facilita para o desenvolvedor que pode trabalhar visualizando a aparência do documento sem precisar salvar em vários momentos e abrir em um \textit {software} separado de visualização},%
+descriptionplural={``What You See Is What You Get'' ou ``O que você vê é o que você obtém''. Recurso tem por objetivo permitir que um documento, enquanto manipulado na tela, tenha a mesma aparência de sua utilização, usualmente sendo considerada final. Isso facilita para o desenvolvedor que pode trabalhar visualizando a aparência do documento sem precisar salvar em vários momentos e abrir em um \textit {software} separado de visualização},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{13}{}%
+{%
+\gls@defglossaryentry{13}%
+{%
+name={Desenho universal:},%
+sort={Desenho universal:},%
+type={main},%
+first={Desenho universal:},%
+firstplural={Desenho universal:s},%
+text={Desenho universal:},%
+plural={Desenho universal:s},%
+description={concepção de produtos, ambientes, programas e serviços a serem usados, na maior medida possível, por todas as pessoas, sem necessidade de adaptação ou projeto específico. O desenho universal não excluirá as ajudas técnicas para grupos específicos de pessoas com deficiência, quando necessárias},%
+descriptionplural={concepção de produtos, ambientes, programas e serviços a serem usados, na maior medida possível, por todas as pessoas, sem necessidade de adaptação ou projeto específico. O desenho universal não excluirá as ajudas técnicas para grupos específicos de pessoas com deficiência, quando necessárias},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{14}{}%
+{%
+\gls@defglossaryentry{14}%
+{%
+name={Mobilidade reduzida:},%
+sort={Mobilidade reduzida:},%
+type={main},%
+first={Mobilidade reduzida:},%
+firstplural={Mobilidade reduzida:s},%
+text={Mobilidade reduzida:},%
+plural={Mobilidade reduzida:s},%
+description={dificuldade permanente ou temporária que uma pessoa tem para se movimentar, gerando redução efetiva da mobilidade, flexibilidade, coordenação motora e percepção},%
+descriptionplural={dificuldade permanente ou temporária que uma pessoa tem para se movimentar, gerando redução efetiva da mobilidade, flexibilidade, coordenação motora e percepção},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{15}{}%
+{%
+\gls@defglossaryentry{15}%
+{%
+name={Pessoas com deficiência:},%
+sort={Pessoas com deficiência:},%
+type={main},%
+first={Pessoas com deficiência:},%
+firstplural={Pessoas com deficiência:s},%
+text={Pessoas com deficiência:},%
+plural={Pessoas com deficiência:s},%
+description={aquelas que têm impedimentos de longo prazo de natureza física, mental, intelectual ou sensorial, os quais, em interação com diversas barreiras, podem obstruir sua participação plena e efetiva na sociedade em igualdades de condições com as demais pessoas. Atualmente chegou-se a um consenso quanto à utilização da expressão ``pessoa com deficiência'' em todas as suas manifestações orais ou escritas, em lugar de termos como ``deficiente'', ``pessoa portadora de deficiência'', ``pessoa com necessidades especiais'' e ``portador de necessidades especiais''},%
+descriptionplural={aquelas que têm impedimentos de longo prazo de natureza física, mental, intelectual ou sensorial, os quais, em interação com diversas barreiras, podem obstruir sua participação plena e efetiva na sociedade em igualdades de condições com as demais pessoas. Atualmente chegou-se a um consenso quanto à utilização da expressão ``pessoa com deficiência'' em todas as suas manifestações orais ou escritas, em lugar de termos como ``deficiente'', ``pessoa portadora de deficiência'', ``pessoa com necessidades especiais'' e ``portador de necessidades especiais''},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{16}{}%
+{%
+\gls@defglossaryentry{16}%
+{%
+name={Framework:},%
+sort={Framework:},%
+type={main},%
+first={Framework:},%
+firstplural={Framework:s},%
+text={Framework:},%
+plural={Framework:s},%
+description={é uma abstração que une códigos comuns entre vários projetos de \textit {software} provendo uma funcionalidade genérica. \textit {Frameworks} são projetados com a intenção de facilitar o desenvolvimento de \textit {software}, habilitando designers e programadores a gastarem mais tempo determinando as exigências do \textit {software} do que com detalhes de baixo nível do sistema},%
+descriptionplural={é uma abstração que une códigos comuns entre vários projetos de \textit {software} provendo uma funcionalidade genérica. \textit {Frameworks} são projetados com a intenção de facilitar o desenvolvimento de \textit {software}, habilitando designers e programadores a gastarem mais tempo determinando as exigências do \textit {software} do que com detalhes de baixo nível do sistema},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{17}{}%
+{%
+\gls@defglossaryentry{17}%
+{%
+name={Dojo Toolkit:},%
+sort={Dojo Toolkit:},%
+type={main},%
+first={Dojo Toolkit:},%
+firstplural={Dojo Toolkit:s},%
+text={Dojo Toolkit:},%
+plural={Dojo Toolkit:s},%
+description={é uma biblioteca em JavaScript, de código fonte aberto, projetado para facilitar o rápido desenvolvimento de interfaces ricas},%
+descriptionplural={é uma biblioteca em JavaScript, de código fonte aberto, projetado para facilitar o rápido desenvolvimento de interfaces ricas},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{18}{}%
+{%
+\gls@defglossaryentry{18}%
+{%
+name={Meta-tag:},%
+sort={Meta-tag:},%
+type={main},%
+first={Meta-tag:},%
+firstplural={Meta-tag:s},%
+text={Meta-tag:},%
+plural={Meta-tag:s},%
+description={Uma etiqueta HTML identificando o conteúdo de um \textit {website}. Informações comumente encontradas na meta-tag incluem: direitos autorais, palavras-chave para ferramentas de busca e descrições da formatação da página},%
+descriptionplural={Uma etiqueta HTML identificando o conteúdo de um \textit {website}. Informações comumente encontradas na meta-tag incluem: direitos autorais, palavras-chave para ferramentas de busca e descrições da formatação da página},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{19}{}%
+{%
+\gls@defglossaryentry{19}%
+{%
+name={DOCTYPE:},%
+sort={DOCTYPE:},%
+type={main},%
+first={DOCTYPE:},%
+firstplural={DOCTYPE:s},%
+text={DOCTYPE:},%
+plural={DOCTYPE:s},%
+description={\textit {Document Type Definition} ou Definição do tipo de documento. Indica para o navegador e para outros meios qual a especificação de código utilizar. O DOCTYPE não é uma \textit {tag} do HTML, mas uma instrução para que o navegador tenha informações sobre qual versão de código a marcação foi escrita},%
+descriptionplural={\textit {Document Type Definition} ou Definição do tipo de documento. Indica para o navegador e para outros meios qual a especificação de código utilizar. O DOCTYPE não é uma \textit {tag} do HTML, mas uma instrução para que o navegador tenha informações sobre qual versão de código a marcação foi escrita},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{20}{}%
+{%
+\gls@defglossaryentry{20}%
+{%
+name={Template:},%
+sort={Template:},%
+type={main},%
+first={Template:},%
+firstplural={Template:s},%
+text={Template:},%
+plural={Template:s},%
+description={é um documento sem conteúdo, com apenas a apresentação visual (apenas cabeçalhos por exemplo) e instruções sobre onde e qual tipo de conteúdo deve entrar a cada parcela da apresentação},%
+descriptionplural={é um documento sem conteúdo, com apenas a apresentação visual (apenas cabeçalhos por exemplo) e instruções sobre onde e qual tipo de conteúdo deve entrar a cada parcela da apresentação},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{21}{}%
+{%
+\gls@defglossaryentry{21}%
+{%
+name={Padrões de projeto:},%
+sort={Padrões de projeto:},%
+type={main},%
+first={Padrões de projeto:},%
+firstplural={Padrões de projeto:s},%
+text={Padrões de projeto:},%
+plural={Padrões de projeto:s},%
+description={ou \textit {Design Pattern}, descreve uma solução geral reutilizável para um problema recorrente no desenvolvimento de sistemas de \textit {software} orientados a objetos. Não é um código final, é uma descrição ou modelo de como resolver o problema do qual trata, que pode ser usada em muitas situações diferentes},%
+descriptionplural={ou \textit {Design Pattern}, descreve uma solução geral reutilizável para um problema recorrente no desenvolvimento de sistemas de \textit {software} orientados a objetos. Não é um código final, é uma descrição ou modelo de como resolver o problema do qual trata, que pode ser usada em muitas situações diferentes},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{22}{}%
+{%
+\gls@defglossaryentry{22}%
+{%
+name={e-MAG:},%
+sort={e-MAG:},%
+type={main},%
+first={e-MAG:},%
+firstplural={e-MAG:s},%
+text={e-MAG:},%
+plural={e-MAG:s},%
+description={Modelo de Acessibilidade de Governo Eletrônico. Consiste em um conjunto de recomendações a ser considerado para que o processo de acessibilidade dos sítios e portais do governo brasileiro seja conduzido de forma padronizada e de fácil implementação},%
+descriptionplural={Modelo de Acessibilidade de Governo Eletrônico. Consiste em um conjunto de recomendações a ser considerado para que o processo de acessibilidade dos sítios e portais do governo brasileiro seja conduzido de forma padronizada e de fácil implementação},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{23}{}%
+{%
+\gls@defglossaryentry{23}%
+{%
+name={Web:},%
+sort={Web:},%
+type={main},%
+first={Web:},%
+firstplural={Web:s},%
+text={Web:},%
+plural={Web:s},%
+description={Sinônimo mais conhecido de \textit {World Wide Web} (WWW). É a interface gráfica da Internet que torna os serviços disponíveis totalmente transparentes para o usuário e ainda possibilita a manipulação multimídia da informação},%
+descriptionplural={Sinônimo mais conhecido de \textit {World Wide Web} (WWW). É a interface gráfica da Internet que torna os serviços disponíveis totalmente transparentes para o usuário e ainda possibilita a manipulação multimídia da informação},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
